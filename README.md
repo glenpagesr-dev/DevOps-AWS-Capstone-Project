@@ -918,7 +918,7 @@ Console Output: ${BUILD_URL}console"""
 
 ## 👤 Author
 
-**Glen Page** — DevOps Engineer. CompTIA Security+ certified, with hands-on Microsoft Azure experience and CI/CD pipeline project work using Jenkins, Docker, and Ansible.
+**Glen Page** — DevOps Engineer. Active DoD Top Secret Clearance, CompTIA Security+ certified, with hands-on Microsoft Azure / AWS experience and CI/CD pipeline project work using Jenkins, Docker, and Ansible.
 
 - GitHub: [@glenpagesr-dev](https://github.com/glenpagesr-dev)
 - LinkedIn: [glen-page-862730246](https://www.linkedin.com/in/glen-page-862730246)
